@@ -1,4 +1,4 @@
-package com.renhard.myecommerce.module.main.viewmodel
+package com.renhard.myecommerce.module.detail.viewmodel
 
 import com.renhard.myecommerce.module.main.model.ProductModel
 

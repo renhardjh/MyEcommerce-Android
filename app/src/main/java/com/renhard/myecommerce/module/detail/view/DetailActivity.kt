@@ -8,7 +8,7 @@ import androidx.core.view.WindowCompat
 import com.renhard.myecommerce.R
 import com.renhard.myecommerce.databinding.DetailActivityBinding
 import com.renhard.myecommerce.module.main.model.ProductModel
-import com.renhard.myecommerce.module.main.viewmodel.DetailViewModel
+import com.renhard.myecommerce.module.detail.viewmodel.DetailViewModel
 import com.renhard.myecommerce.util.getSerializable
 import java.text.NumberFormat
 import java.util.Currency
