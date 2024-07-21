@@ -9,13 +9,26 @@
         android:src="@drawable/splash"
         android:scaleType="centerCrop"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="MyEcommerce"
-        android:layout_centerInParent="true"
-        android:textColor="@color/white"
-        android:textSize="32sp"
-        android:textStyle="bold"/>
+    <ImageView
+        android:layout_width="240dp"
+        android:layout_height="240dp"
+        android:src="@drawable/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"/>
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/mulai"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="60dp"
+        android:backgroundTint="@color/white"
+        android:textColor="@android:color/black"
+        android:visibility="gone"/>
 
 </RelativeLayout>
