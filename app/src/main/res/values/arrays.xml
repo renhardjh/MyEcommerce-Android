@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="product_images">
+        <item>@drawable/iphonex</item>
+        <item>@drawable/airbuds_pro</item>
+        <item>@drawable/galaxy_s24</item>
+        <item>@drawable/macbook_m1_pro</item>
+        <item>@drawable/mouse_logitech</item>
+        <item>@drawable/ssd_wd_1tb</item>
+        <item>@drawable/monitor_lg</item>
+        <item>@drawable/tv_sony</item>
+        <item>@drawable/samsung_buds</item>
+        <item>@drawable/xiaomi_smartband</item>
+    </array>
+
+    <integer-array name="product_prices">
+        <item>11000000</item>
+        <item>4500000</item>
+        <item>18000000</item>
+        <item>20000000</item>
+        <item>150000</item>
+        <item>2100000</item>
+        <item>5000000</item>
+        <item>9500000</item>
+        <item>4000000</item>
+        <item>650000</item>
+    </integer-array>
+</resources>
